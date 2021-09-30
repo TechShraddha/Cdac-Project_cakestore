@@ -1,4 +1,4 @@
-# Cdac-Project_cakestoreBake N' Flake CakeStore is an E-commerce web-app built 
+# Bake N' Flake CakeStore is an E-commerce web-app built 
 with MERN stack. The main objective of this cakestore is to provide all the
 details about cakes.
 
